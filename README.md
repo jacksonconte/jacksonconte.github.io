@@ -1,10 +1,10 @@
-**UCSD Class of '23** | *Seeking software internship for summer 2021*
+## **UCSD Class of '23** | *Seeking software internship for summer 2021*
 
 ### About me
 
 ![Hello there!](./hellothere.gif)
 
-I'm a CS undergrad looking to get into hands-on, practical work. I'm from the south Bay Area, so tech has been part of my life for a while. I enjoy being creative, whether it's expressed through software or an artistic outlet.
+I'm a CS undergrad and aspiring developer looking to get into hands-on, practical work. I'm from the south Bay Area, so tech has been part of my life for a while. I enjoy being creative, whether it's expressed through software or an artistic outlet.
 
 ### Projects
 - [Audentia](https://devpost.com/software/audientia)
