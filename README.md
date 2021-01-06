@@ -27,9 +27,10 @@ I'm a CS undergrad looking to get into hands-on, practical work. I'm from the so
 - Drawing
 
 ### Goals for 2021
-- [] Learn the MERN stack
-- [] Make a simple Discord bot
-- [] Write a song
+- [x] Fix this list
+- [ ] Learn the MERN stack
+- [ ] Make a simple Discord bot
+- [ ] Write a song
 
 
 ### Programming Language "Hot Takes" (just for fun!)
