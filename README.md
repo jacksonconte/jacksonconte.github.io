@@ -3,9 +3,9 @@
 
 ### About me
 
-(./hellothere.gif)
+![Hello there!](./hellothere.gif)
 
-Hi there! I'm a CS undergrad looking to get into hands-on, practical work. I'm from the south Bay Area, so tech has been part of my life for a while. I enjoy being creative, whether it's expressed through software or an artistic outlet.
+I'm a CS undergrad looking to get into hands-on, practical work. I'm from the south Bay Area, so tech has been part of my life for a while. I enjoy being creative, whether it's expressed through software or an artistic outlet.
 
 ### Projects
 - [Audentia](https://devpost.com/software/audientia)
@@ -25,6 +25,12 @@ Hi there! I'm a CS undergrad looking to get into hands-on, practical work. I'm f
 - Writing
 - Music
 - Drawing
+
+### Goals for 2021
+- [] Learn the MERN stack
+- [] Make a simple Discord bot
+- [] Write a song
+
 
 ### Programming Language "Hot Takes" (just for fun!)
 > Java is alright until you add "script" to the end of it.
