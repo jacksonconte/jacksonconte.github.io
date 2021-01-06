@@ -1,4 +1,3 @@
-# Jackson Conte
 **UCSD Class of '23** | *Seeking software internship for summer 2021*
 
 ### About me
@@ -27,7 +26,7 @@ I'm a CS undergrad looking to get into hands-on, practical work. I'm from the so
 - Drawing
 
 ### Goals for 2021
-- [x] Fix this list
+- [x] Make this list
 - [ ] Learn the MERN stack
 - [ ] Make a simple Discord bot
 - [ ] Write a song
