@@ -1,4 +1,5 @@
-## **UCSD Class of '23** | *Seeking software internship for summer 2021*
+## **UCSD Class of '23**
+*Seeking software internship for summer 2021*
 
 ### About me
 
